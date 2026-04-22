@@ -1,0 +1,6 @@
+# Dependencies
+numpy
+Pillow
+torch
+rembg[gpu]
+opencv-python
